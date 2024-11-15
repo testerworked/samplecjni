@@ -1,5 +1,5 @@
 # samplecjni
-a simple Android application for integration with "c" or "c++", jni
+a simple Android application for integration with "c" or "c++", jni, output logs from jni
 
 
 ![jni_0](https://github.com/user-attachments/assets/827d5a55-3cda-4a52-b3a7-7e71a631136c)
